@@ -9,7 +9,8 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1576606992750	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 3932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
 [Child 13628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
-[Chi1576607017241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecJ7cj1"
+[ChiJavaScript error: , line 0: uncaught exception: Object
+:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecJ7cj1"
 *** You are running in headless mode.
 1576607018946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
 1576607018947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
