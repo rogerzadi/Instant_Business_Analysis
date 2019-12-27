@@ -12,7 +12,7 @@ Principales causas de muerte:
 - Falta de Análisis (44%)
 
 ### Intro 
-Utilizando la base de datos abierta y complementandola de otras bases de datos, creamos un modelo el cual arroja información util para saber la *viabilidad de un proyecto* que aun se encuentre en idea y asi poder plantear estrategías para abordar el proyecto de una manera mas exitosa, asi como poder cuantificar el riesgo que esta tiene en el mercado actual.
+Utilizando la base de datos abierta y complementandola de otras bases de datos, creamos un modelo el cual arroja información util para saber la *viabilidad de un proyecto* que aun se encuentre en idea y asi poder plantear estrategias para abordar el proyecto de una manera mas exitosa, asi como poder cuantificar el riesgo que esta tiene en el mercado actual.
 
 ### Data Utilizada
 - Api de INEGI
